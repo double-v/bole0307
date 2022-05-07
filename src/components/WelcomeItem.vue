@@ -16,6 +16,7 @@
 .item {
   margin-top: 2rem;
   display: flex;
+  align-items: center;
 }
 
 .details {

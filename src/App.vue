@@ -32,6 +32,10 @@ import TheWelcome from './components/TheWelcome.vue'
 
 <style>
 @import './assets/base.css';
+.listen{
+  display: block;
+  margin-top: 50px;
+}
 .share{
   width: 100%;
   margin-top: 30px;
@@ -57,6 +61,8 @@ header {
 .logo {
   display : block;
   margin  : 0 auto 2rem;
+  width: 200px;
+  height: 200px;
 }
 
 a,
