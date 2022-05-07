@@ -16,12 +16,12 @@ import TheWelcome from './components/TheWelcome.vue'
     <TheWelcome/>
 
     <div class="share">
-      <ShareNetwork network="facebook" url="https://bole0307.vercel.app/"
+      <ShareNetwork network="facebook" url="https://bole0307.vercel.app"
                     title="Bolë - 0307"
                     description="Le vétéran du rap neversois revient avec son nouvel album 0307. En écoute sur toute les plateformes de straming">
         Partager sur Facebook
       </ShareNetwork>
-      <ShareNetwork network="twitter" url="https://bole0307.vercel.app/"
+      <ShareNetwork network="twitter" url="https://bole0307.vercel.app"
                     title="Bolë - 0307"
                     description="Le vétéran du rap neversois revient avec son nouvel album 0307. En écoute sur toute les plateformes de straming">
         Partager sur Twitter
